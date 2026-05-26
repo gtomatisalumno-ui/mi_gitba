@@ -1,1 +1,1 @@
-print("hola ITEC 2026")
+print("hola GITHUB ESTUDIO EN EL ITEC")
